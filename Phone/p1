@@ -1,0 +1,7 @@
+#!/usr/bin/python
+
+import Phone
+
+print_assaf()
+print_shelly()
+print_dondon()
